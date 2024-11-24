@@ -1,6 +1,6 @@
-## Hi there  every 👋. My name is Bui Vinh Thai 
-## I'm a student from University of Education and Techonology - University of Da Nang
-## I'm currently learning being a Web Developer but my main passion is AI. Though I'm not actually good at math so I'm trying day by day to become better at math so that I can pursue being an AI Enigneer
+## Hi there  everyone 👋. My name is Bui Vinh Thai 
+## 😄 I'm a student from University of Education and Techonology - University of Da Nang
+## 🌱 I'm currently learning being a Web Developer but my main passion is AI. Though I'm not actually good at math so I'm trying day by day to become better at math so that I can pursue being an AI Enigneer
 
 <!--
 **vinhthai2905/vinhthai2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
