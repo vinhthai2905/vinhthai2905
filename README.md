@@ -36,10 +36,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
   <img width="12" />
