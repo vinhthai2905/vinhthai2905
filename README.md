@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Math and AI<br>🎯 Goals: AI Enginner<br>🎲 Fun fact: I'm an ambivert 😄</p>
+<p align="left">📚 I'm currently learning Math, AI, Web<br>🎯 Goals: AI Enginner<br>🎲 Fun fact: I'm an ambivert 😄</p>
 
 ###
 
@@ -39,8 +39,6 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
@@ -48,20 +46,12 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
 </div>
 
 ###
 
-<h2 align="left">IDE, Engines</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
-</div>
+<h2 align="left">IDE, Engines, Tools</h2>
 
 ###
