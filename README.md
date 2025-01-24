@@ -9,8 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<H2> You can reach me via:
-  
+
 <div align="left">
   <a href="https://www.facebook.com/04KoPe3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
