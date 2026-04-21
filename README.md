@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thái and I'm a student from University of Education and Techonology - University of Da Nang<br> I'm currently learning being a Web Developer but my main passion is AI. Though I'm not actually good at math so I'm trying day by day to become better at math so that I can pursue being an AI Enigneer</p>
+<p align="left">My name is Thái and I'm a student from University of Education and Techonology - University of Da Nang<br> I'm currently actively learning to become a Web Developer but my main passion is AI. Though I'm not actually good at math so I'm trying day by day to become better at math so that I can make the transition from being an Web Developer to be an AI engineer</p>
 
 ###
 
